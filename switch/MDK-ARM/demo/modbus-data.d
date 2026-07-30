@@ -1,0 +1,10 @@
+demo\modbus-data.o: ..\Middlewares\Third_Party\libmodbus\modbus-data.c
+demo\modbus-data.o: D:\keil\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+demo\modbus-data.o: D:\keil\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+demo\modbus-data.o: D:\keil\keil5\ARM\ARMCC\Bin\..\include\string.h
+demo\modbus-data.o: D:\keil\keil5\ARM\ARMCC\Bin\..\include\assert.h
+demo\modbus-data.o: ..\Middlewares\Third_Party\libmodbus\modbus.h
+demo\modbus-data.o: ..\Middlewares\Third_Party\libmodbus\modbus-version.h
+demo\modbus-data.o: ..\Middlewares\Third_Party\libmodbus\modbus-rtu.h
+demo\modbus-data.o: ..\Middlewares\Third_Party\libmodbus\modbus.h
+demo\modbus-data.o: ..\Middlewares\Third_Party\libmodbus\modbus-tcp.h
